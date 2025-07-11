@@ -1,0 +1,13 @@
+version: "3.8"
+
+services:
+  ai-lawyer:
+    image: huzaifaasad/ai-lawyer-app:latest
+    container_name: ai-lawyer-container
+    ports:
+      - "8501:8501"
+    environment:
+      - GROQ_API_KEY=your_actual_groq_api_key_here
+    volumes:
+      - ./pdfs:/app/pdfs
+      - ./vectorstore:/app/vectorstore

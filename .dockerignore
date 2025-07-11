@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.env
+.env
+*.sqlite3
+venv/
+ai-lawyer-env/
+pdfs/
+vectorstore/
