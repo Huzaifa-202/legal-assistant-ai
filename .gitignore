@@ -4,17 +4,17 @@ __pycache__/
 *.so
 *.log
 
-# === Virtual Environment ===
-ai-lawyer-app/
+# === Virtual Environments ===
 env/
 venv/
 .venv/
+ai-lawyer/   # <-- your actual local venv
 
 # === Environment Variables ===
 .env
 *.env
 
-# === IDEs ===
+# === IDEs and Configs ===
 .vscode/
 .idea/
 
@@ -26,6 +26,6 @@ vectorstore/
 .streamlit/
 *.streamlit
 
-# === Mac/Windows Artifacts ===
+# === Mac/Windows OS Files ===
 .DS_Store
 Thumbs.db
