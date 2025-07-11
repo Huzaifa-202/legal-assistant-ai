@@ -1,0 +1,31 @@
+# === Python Basics ===
+__pycache__/
+*.py[cod]
+*.so
+*.log
+
+# === Virtual Environment ===
+ai-lawyer-app/
+env/
+venv/
+.venv/
+
+# === Environment Variables ===
+.env
+*.env
+
+# === IDEs ===
+.vscode/
+.idea/
+
+# === FAISS Vector DB ===
+vectorstore/
+*.faiss
+
+# === Streamlit Cache ===
+.streamlit/
+*.streamlit
+
+# === Mac/Windows Artifacts ===
+.DS_Store
+Thumbs.db
