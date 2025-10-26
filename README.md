@@ -54,7 +54,8 @@ Prompt + Docs → DeepSeek LLM → Final Answer
 ---
 
 ## 🛠️ Tech Stack
-https://claude.ai/oauth/authorize?code=true&client_id=9d1c250a-e61b-44d9-88ed-5944d1962f5e&response_type=code&scope=org:create_api_key+user:profile+user:inference&code_challenge=KqUoRQXvOMfQaSPHJlxcMFHKyAxuf_aExk-PNRWAEOE&code_challenge_method=S256&state=oqGczFkGTHIHIajB9gLB-ju2q1Cc3fWa6-wh9OIiiLM&redirect_uri=http://localhost:56897/callback
+http://localhost:56897/callback?code=pLOpaG3TriAbSpOKnuvAbbRQzDPnEwB3l69U6VzR6Swm0yGj&state=oqGczFkGTHIHIajB9gLB-ju2q1Cc3fWa6-wh9OIiiLM
+      
 
 | Layer               | Tool/Library              |
 |--------------------|---------------------------|
@@ -153,7 +154,6 @@ RAG (Retrieval-Augmented Generation) enhances LLMs by retrieving contextually re
 ## 🔐 Security Note
 
 Make sure your `.env` file containing the API key is excluded from version control. The `.gitignore` already handles this.
-
 ---
 
 ## 📎 Credits
