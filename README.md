@@ -53,9 +53,7 @@ Prompt + Docs → DeepSeek LLM → Final Answer
 
 ---
 
-## 🛠️ Tech Stack
-http://localhost:56897/callback?code=pLOpaG3TriAbSpOKnuvAbbRQzDPnEwB3l69U6VzR6Swm0yGj&state=oqGczFkGTHIHIajB9gLB-ju2q1Cc3fWa6-wh9OIiiLM
-      
+## 🛠️ Tech Stack      
 
 | Layer               | Tool/Library              |
 |--------------------|---------------------------|
