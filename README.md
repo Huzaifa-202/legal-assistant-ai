@@ -114,7 +114,8 @@ docker compose up
 
 You can directly pull and run the prebuilt image from Docker Hub:
 
-👉 [View on Docker Hub](https://hub.docker.com/r/huzaifaasad/ai-lawyer-app)
+👉 [View on Docker Hub](https://hub.docker.com/r/huzaifaasad/ai-lawyer-app)/
+uOkpykXsRQdSi774AQR36lh6roIV7k9w624YTASHW8cpsawK#PoXei2ilcWsTMoC9_-RHyaGFDf6PKYcVMAGe4F3p0hs
 https://claude.ai/oauth/authorize?code=true&client_id=9d1c250a-e61b-44d9-88ed-5944d1962f5e&response_type=code&scope=org%3Acreate_api_key+user%3Aprofile+user%3Ainference&code_challenge=9a0FoT3tjNqaMv1m6BPP_BE6cy84Gfr7N-O_KlaEd2A&code_challenge_method=S256&state=PoXei2ilcWsTMoC9_-RHyaGFDf6PKYcVMAGe4F3p0hs&redirect_uri=https%3A%2F%2Fconsole.anthropic.com%2Foauth%2Fcode%2Fcallback
 ### Pull the image:  
 docker pull huzaifaasad/ai-lawyer-app:latest
