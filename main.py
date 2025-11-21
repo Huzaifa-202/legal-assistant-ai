@@ -7,7 +7,8 @@ app = asyncio.run(create_app())
 
 
 Logs
-
+Deploying Event Subscription: IncomingCallHandler
+Deployment has failed with the following error: {"code":"URL validation","message":"Webhook validation handshake failed for https://bizapps-webapp.azurewebsites.net/api/incomingCall. Http POST request failed with response code Unknown. For troubleshooting, visit https://aka.ms/esvalidation. Activity id:2674c65f-abf4-46f8-952a-8bfe31f2a2ae, timestamp: 11/21/2025 6:58:04 AM (UTC)."}
 
 Instances
 Lookback period
